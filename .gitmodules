@@ -1,0 +1,3 @@
+[submodule "lib/LPD8806"]
+	path = lib/LPD8806
+	url = https://github.com/adafruit/LPD8806.git
